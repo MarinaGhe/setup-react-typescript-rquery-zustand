@@ -13,4 +13,4 @@ It includes:
   - global store using zustand
   
  This is just a guide, based on your needs you'll have to adapt and change some things.
- This folder structure is usually suitable for medium-large projects.
+ This folder structure it's usually suitable for medium-large projects.
