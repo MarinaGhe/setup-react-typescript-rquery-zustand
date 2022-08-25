@@ -4,7 +4,7 @@
 Initial setup of a project created with create-react-app.
 
 It includes:
-  - the backbone of the project and file structure (differentiated by 2 inpothetical user types)
+  - the backbone of the project and file structure (differentiated by 2 ipothetical user types)
   - some pages and components as an example
   - routing and navigation
   - api requests using react-query (not all endpoints are working, some of them are only as an example)
